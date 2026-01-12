@@ -5,13 +5,9 @@ Analysis of synthetic hospital patient data (2011–2022) using SQL to explore a
 **Dataset Overview**
 
 The dataset includes:
-
 Patient demographics: age, gender, ethnicity, etc.
-
 Hospital encounters: admission and discharge dates, encounter types
-
 Procedures performed and their associated costs
-
 Insurance coverage and payer details
 **Queries**
 ```
